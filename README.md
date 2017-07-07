@@ -18,6 +18,7 @@
 #### `Codecademy`
 
 __`Status : `__ __`Pending`__
+
 __`Deadline : `__ __`31st July 2017`__
 
 I'll start with [Codecademy](https://www.codecademy.com) because I've to start, at least. Below are the list of some Programming Courses that I'll finish in this month. 
