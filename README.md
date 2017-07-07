@@ -20,9 +20,7 @@
 __`Status : `__ __`Pending`__
 __`Deadline : `__ __`31st July 2017`__
 
-I'll start with [Codecademy](https://www.codecademy.com) because I've to start, at least.
-
-- Here is a list of Programming Courses that I'll finish this month. 
+I'll start with [Codecademy](https://www.codecademy.com) because I've to start, at least. Below are the list of some Programming Courses that I'll finish in this month. 
 
 - __`Python`__
 - __`Learn JavaScript`__
@@ -47,3 +45,5 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 - __`SQL: Table Transformation`__
 - __`SQL: Analyzing Business Metrics`__
 - __`Complete API courses`__
+
+<p align="center"><code>TO BE CONTINUED...</code></p>
