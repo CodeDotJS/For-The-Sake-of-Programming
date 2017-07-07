@@ -5,7 +5,7 @@
 ### `Goal`
 
 
-- My current goal is to code as much as I can. I'll try to finish many online courses in a short period of time!
+- My current goal is to code as much as I can. I'll try to finish many online courses in a short period of time! Moreover, I've had two options - either I talk to my girlfriend, 24x7 or write some code. Unfortunately, I can't talk to my laptop.
 
 ### `Why?`
 
