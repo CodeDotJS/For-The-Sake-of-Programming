@@ -25,7 +25,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 
 | Couse                           | Status  |
 | ------------------------------- | ------- |
-| __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-66-green.svg)]() |
+| __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-71-green.svg)]() |
 | __`Learn JavaScript`__                | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`jQuery`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
