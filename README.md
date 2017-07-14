@@ -42,7 +42,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Make a Website`__                  | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn the Command Line`__          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Deploy a Website`__                | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-14-green.svg)]() |
 | __`Learn GIT`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn SQL`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`SQL: Table Transformation`__       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
