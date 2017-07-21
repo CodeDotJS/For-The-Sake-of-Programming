@@ -17,15 +17,15 @@
 
 #### `Codecademy`
 
-__`Status : `__ __`Pending`__
+__`Starting : `__ __`1st August 2017`__
 
-__`Deadline : `__ __`31st July 2017`__
+__`Deadline : `__ __`31st August 2017`__
 
 I'll start with [Codecademy](https://www.codecademy.com) because I've to start, at least. Below are the list of some Programming Courses that I'll finish in this month. 
 
 | Couse                           | Status  |
 | ------------------------------- | ------- |
-| __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-76-green.svg)]() |
+| __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn JavaScript`__                | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`jQuery`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
@@ -42,7 +42,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Make a Website`__                  | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn the Command Line`__          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Deploy a Website`__                | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-14-green.svg)]() |
+| __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn GIT`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn SQL`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`SQL: Table Transformation`__       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
