@@ -39,7 +39,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Learn the Watson API`__            | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn HTML and CSS: Part 1`__      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn Responsive Design`__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`Make a Website`__                  | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`Make a Website`__                  | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn the Command Line`__          | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Deploy a Website`__                | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
