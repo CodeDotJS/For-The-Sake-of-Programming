@@ -25,6 +25,10 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 
 | Couse                           | Status  |
 | ------------------------------- | ------- |
+| __`Make a Website`__                  | [![Build Status](https://img.shields.io/badge/Progress-50%25-green.svg)]() |
+| __`Learn the Command Line`__          | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
+| __`Deploy a Website`__                | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
+| __`Learn GIT`__                       | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn JavaScript`__                | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
@@ -39,13 +43,17 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Learn the Watson API`__            | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn HTML and CSS: Part 1`__      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn Responsive Design`__         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`Make a Website`__                  | [![Build Status](https://img.shields.io/badge/Progress-50%25-green.svg)]() |
-| __`Learn the Command Line`__          | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
-| __`Deploy a Website`__                | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`Learn GIT`__                       | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
-| __`Learn SQL`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`SQL: Table Transformation`__       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`SQL: Analyzing Business Metrics`__ | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`Complete API courses`__            | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`NHTSA API`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`Dowlla API`__                      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`GitHub API`__                      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`WePAY API`__ `Python`              | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`WePAY API`__ `Ruby`                | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`NPR API`__                         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`SendGrid API`__                    | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`SoundCloud API`__                  | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`Evernote API`__                    | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`Box API`__                         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`Twitter API`__                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`Youtube API`__                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 <p align="center"><code>TO BE CONTINUED...</code></p>
