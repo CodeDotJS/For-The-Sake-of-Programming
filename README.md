@@ -25,7 +25,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 
 | Couse                           | Status  |
 | ------------------------------- | ------- |
-| __`Make a Website`__                  | [![Build Status](https://img.shields.io/badge/Progress-50%25-green.svg)]() |
+| __`Make a Website`__                  | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn the Command Line`__          | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Deploy a Website`__                | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn GIT`__                       | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
