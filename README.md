@@ -30,7 +30,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Deploy a Website`__                | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn GIT`__                       | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn Responsive Design`__         | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
-| __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-25%25-orange.svg)]() |
+| __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-33%25-red.svg)]() |
 | __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn JavaScript`__                | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
