@@ -31,7 +31,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Learn GIT`__                       | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn Responsive Design`__         | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
-| __`Learn HTML and CSS: Part 1`__      | [![Build Status](https://img.shields.io/badge/Progress-50%25-red.svg)]() |
+| __`Learn HTML and CSS: Part 1`__      | [![Build Status](https://img.shields.io/badge/Progress-50%25-yellow.svg)]() |
 | __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn JavaScript`__                | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
@@ -43,6 +43,10 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Ruby`__                            | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn Ruby on Rails`__             | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Ruby on Rails: Authentication`__   | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`PHP`__                             | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`Leran SQL`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`SQL: Table Transformation`__       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`SQL: Analyzing Business Metrics`__ | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn the Watson API`__            | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`NHTSA API`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Dowlla API`__                      | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
