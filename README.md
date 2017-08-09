@@ -60,4 +60,6 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Box API`__                         | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Twitter API`__                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Youtube API`__                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+|                                       |                                                                               |
+| __`Total Courses Finished`__          | __`7`__                                                                       |
 <p align="center"><code>TO BE CONTINUED...</code></p>
