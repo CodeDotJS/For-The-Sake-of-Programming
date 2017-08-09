@@ -44,7 +44,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Learn Ruby on Rails`__             | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Ruby on Rails: Authentication`__   | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`PHP`__                             | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
-| __`Leran SQL`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
+| __`Learn SQL`__                       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`SQL: Table Transformation`__       | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`SQL: Analyzing Business Metrics`__ | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn the Watson API`__            | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
@@ -61,5 +61,5 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Twitter API`__                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Youtube API`__                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 |                                       |                                                                               |
-| __`Total Courses Finished`__          | __`7`__                                                                       |
+| __`Total Courses Finished`__          | __`7`__  `out of` __`28`__                                                    |
 <p align="center"><code>TO BE CONTINUED...</code></p>
