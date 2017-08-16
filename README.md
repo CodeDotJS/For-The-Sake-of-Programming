@@ -33,7 +33,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn HTML and CSS: Part 1`__      | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn JavaScript`__                | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
-| __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-62%25-green.svg)]() |
+| __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-75%25-green.svg)]() |
 | __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`jQuery`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn ReactJS: Part 1`__           | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
