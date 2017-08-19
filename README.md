@@ -33,7 +33,7 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`HTMl and CSS`__                    | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn HTML and CSS: Part 1`__      | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Learn JavaScript`__                | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
-| __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-93%25-green.svg)]() |
+| __`JavaScript`__                      | [![Build Status](https://img.shields.io/badge/Progress-100%25-green.svg)]() |
 | __`Python`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`jQuery`__                          | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Learn ReactJS: Part 1`__           | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
@@ -61,5 +61,5 @@ I'll start with [Codecademy](https://www.codecademy.com) because I've to start, 
 | __`Twitter API`__                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 | __`Youtube API`__                     | [![Build Status](https://img.shields.io/badge/Progress-Pending-orange.svg)]() |
 |                                       |                                                                               |
-| __`Total Courses Finished`__          | __`8`__  `out of` __`35`__                                                    |
+| __`Total Courses Finished`__          | __`9`__  `out of` __`35`__                                                    |
 <p align="center"><code>TO BE CONTINUED...</code></p>
